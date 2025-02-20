@@ -1,8 +1,8 @@
 # Detección de la luna
 
-train: '/train/'
+train: '/content/luna_yolo/images/train/'
 
-val: '/val/'
+val: '/content/luna_yolo/images/val/'
 
 # number of classes
 nc: 1
